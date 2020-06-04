@@ -14,5 +14,4 @@ Exercícios de java da apostila da Caelum!
     Selenium IDE. - apresentação da ferramenta, mas não vamos usar muito!
     Selenium Webdriver - nessa parte apresentação, depois na segunda todos os detalhes!
   
-Link do Grupo:
-https://chat.whatsapp.com/DjJ43JJlyIULtdTGsYFcEY
+
